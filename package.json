@@ -39,7 +39,7 @@
     "queue": "^6.0.1",
     "sanitize-filename": "^1.6.3",
     "socket.io": "^2.3.0",
-    "xlsx": "^0.15.6"
+    "xlsx": "^0.17.0"
   },
   "keywords": [
     "audit",
